@@ -23,5 +23,5 @@ steps:
 - script: python test.py
   displayName: 'Run a python file'
 
-- script: python test2.py
+- script: python python_test/test2.py
   displayName: 'Run a python file from a folder'
