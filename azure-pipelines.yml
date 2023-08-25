@@ -18,11 +18,4 @@ steps:
     echo This is the second step.
     echo This is the third step.
     echo This is the fourth step.
-
   displayName: 'Run a multi-line script'
-
-- script: python test.py
-  displayName: 'Run a python file'
-
-- script: python python_test/test2.py
-  displayName: 'Run a python file from a folder'
