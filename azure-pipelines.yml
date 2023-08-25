@@ -18,3 +18,6 @@ steps:
     echo This is the second step.
     echo This is the first step.
   displayName: 'Run a multi-line script'
+
+- script: python AdvSoftDev\test.py
+  displayName: 'Run a python file'
