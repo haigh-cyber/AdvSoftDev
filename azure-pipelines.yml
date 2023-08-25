@@ -20,5 +20,5 @@ steps:
 
   displayName: 'Run a multi-line script'
 
-- script: python AdvSoftDev\test.py
+- script: python test.py
   displayName: 'Run a python file'
