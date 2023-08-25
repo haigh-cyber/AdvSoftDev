@@ -17,6 +17,7 @@ steps:
     echo This is the first step.
     echo This is the second step.
     echo This is the third step.
+    echo This is the fourth step.
 
   displayName: 'Run a multi-line script'
 
